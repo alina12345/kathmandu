@@ -1,2 +1,1 @@
-kathmandu
-=========
+Capital of Nepal is Kathmandu
